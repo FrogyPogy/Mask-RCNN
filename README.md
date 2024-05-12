@@ -5,6 +5,9 @@ Check this video to understand the code: https://www.youtube.com/watch?v=QP9Nl-n
 
 ![Screenshot 2023-02-18 154952](https://user-images.githubusercontent.com/60029146/219943863-63467d85-db8e-40f8-b712-a31ed89717fb.jpg)
 
+# Result For Detection Road Marking
+![Screenshot](https://github.com/FrogyPogy/Mask-RCNN/blob/main/result.jpg)
+
 > [!NOTE]
 > This project aims to detect road markings using mask-rcnn with a dataset that has been annotated with the vcc annotator
 
