@@ -7,8 +7,9 @@ Check this video to understand the code: https://www.youtube.com/watch?v=QP9Nl-n
 
 > [!NOTE]
 > This project aims to detect road markings using mask-rcnn with a dataset that has been annotated with the vcc annotator
+
+## Installation Guide.
 > [!TIP]
-> ## Installation Guide.
 > 1. Install nvidia cuda in your local machine. This project using nvidia cuda ver. 11.0
 > 2. Install jupyter notebook
 > 3. This project using python 3.8
